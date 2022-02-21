@@ -73,6 +73,11 @@ const matematika = {};
 const veiksmas = '+';
 const pirmas = 7;
 const antras = 5;
+const trecias = 2;
 
-const rezultatas = 12;
-console.log(`${pirmas} ${veiksmas} ${antras} = ${rezultatas}`);
+const rezultatas12 = 12;
+const rezultatas23 = 7;
+const rezultatas13 = 9;
+console.log(`${pirmas} ${veiksmas} ${antras} = ${rezultatas12}`);
+console.log(`${antras} ${veiksmas} ${trecias} = ${rezultatas23}`);
+console.log(`${pirmas} ${veiksmas} ${trecias} = ${rezultatas13}`);
